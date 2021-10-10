@@ -1,4 +1,4 @@
-package com.matheus.folhapag.api;
+package com.matheus.folhapag.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

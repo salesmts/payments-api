@@ -1,4 +1,4 @@
-package com.matheus.folhapag.api;
+package com.matheus.folhapag.controller;
 
 import com.matheus.folhapag.model.Conta;
 import com.matheus.folhapag.model.Funcionario;
