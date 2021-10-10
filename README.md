@@ -5,7 +5,7 @@ Tecnologias utilizadas:
 - Spring Framework 5;
 - Hibernate ORM(JPA);
 - PostgreSQL 11;
-- Conceitos e patterns de APIs RESTful.
+- Conceitos e patterns de API RESTful e Clean Code. 
 
 Features:
 - Cadastro de empresas;
@@ -14,7 +14,7 @@ Features:
 - Obtenção do saldo da conta corrente de determinado funcionário;
 - Transferir dinheiro da conta de uma empresa, para a conta do funcionário.
 
-> Utilização dos patterns de API RESTful e Clean Code.
+
 
 ### Pré-requisitos
 ```
